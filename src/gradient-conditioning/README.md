@@ -4,7 +4,7 @@ Codes for generating _gradient conditioning_ results in Siahkoohi, A., Louboutin
 
 ## Dataset
 
-Links have been provided in `RunTraining.sh` script to automatically download the training/testing dataset into the necessary directory. Unfortunately, we are not currently allowed to share the BG COMPASS 3D model right now. But as mentioned, the dataset necessary to reproduce the results will be downloaded upon running `RunTraining.sh`\.
+Links have been provided in `RunTraining.sh` script to automatically download the training/testing dataset into the necessary directory. Unfortunately, we are not currently allowed to share the BG COMPASS 3D model. But as mentioned, the dataset necessary to reproduce the results will be downloaded upon running `RunTraining.sh`\.
 
 ## Script descriptions
 
