@@ -24,14 +24,7 @@ Links have been provided in `RunTraining.sh` script to automatically download th
 ### Running the code
 
 
-To generate training data using the the Salt velocity model, run the command below. You can skip this part if you do not want to generate the data yourself. Data can be downloaded automatically by running `RunTraining.sh`\.
-
-```bash
-bash utilities/RunDataGeneration.sh
-```
-
-
-To perform training, run:
+Data can be downloaded automatically by running `RunTraining.sh`\. To perform training, run:
 
 ```bash
 # Running on GPU
