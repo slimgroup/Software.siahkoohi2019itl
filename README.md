@@ -1,9 +1,5 @@
 # The importance of transfer learning in seismic modeling and imaging
 
-Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann. The importance of transfer learning in seismic modeling and imaging. In: Geophysics 84.6. July 2019, pp. A47–A52. doi: [10.1190/geo2019-0056.1.](https://library.seg.org/doi/10.1190/geo2019-0056.1)
-
-# Source codes
-
 This repository contains source codes for experiemtns in Siahkoohi, A., Louboutin, M. and Herrmann, F.J., 2019. The importance of transfer learning in seismic modeling and imaging. Geophysics, 84(6), pp.1-30.  doi: [10.1190/geo2019-0056.1](https://doi.org/10.1190/geo2019-0056.1).
 
 
