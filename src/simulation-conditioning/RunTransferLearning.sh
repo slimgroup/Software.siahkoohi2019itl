@@ -4,7 +4,7 @@ experiment_name=SimulationCorrection_transfer_learning
 experiment_name_pretraining=SimulationCorrection_pretraining
 repo_name=importance-of-transfer-learning
 
-path_script=$HOME/$repo_name/src/transfer-learning/simulation-conditioning/src
+path_script=$HOME/$repo_name/src/simulation-conditioning/src
 path_data=$HOME/data
 path_model=$HOME/model/$experiment_name
 

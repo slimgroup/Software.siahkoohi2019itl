@@ -4,7 +4,7 @@ experiment_name=DataCorrection_transfer_learning
 experiment_name_pretraining=DataCorrection_pretraining
 repo_name=importance-of-transfer-learning
 
-path_script=$HOME/$repo_name/src/transfer-learning/data-conditioning/src
+path_script=$HOME/$repo_name/src/data-conditioning/src
 path_data=$HOME/data
 path_model=$HOME/model/$experiment_name
 

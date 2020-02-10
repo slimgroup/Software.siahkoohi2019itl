@@ -2,7 +2,7 @@
 
 repo_name=importance-of-transfer-learning
 
-path_script=$HOME/$repo_name/src/transfer-learning/simulation-conditioning/utilities
+path_script=$HOME/$repo_name/src/simulation-conditioning/utilities
 path_data=$HOME/data
 
 mkdir $HOME/data
