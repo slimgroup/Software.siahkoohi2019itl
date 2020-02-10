@@ -48,7 +48,7 @@ For more details regarding how to run the experiments, refer to the README.md fi
 
 ## Citation
 
-If you find this siftware useful in your research, please cite:
+If you find this software useful in your research, please cite:
 
 ```bibtex
 @article{siahkoohi2019transfer,
