@@ -46,6 +46,26 @@ pip install --user -r  requirements.txt
 
 For more details regarding how to run the experiments, refer to the README.md file in each experiment's directory.
 
+## Citation
+
+If you find this siftware useful in your research, please cite:
+
+```bibtex
+@article{siahkoohi2019transfer,
+    author={Siahkoohi, Ali and Louboutin, Mathias and Herrmann, Felix J.},
+    title={The importance of transfer learning in seismic modeling and imaging},
+    month={7},
+    year={2019},
+    doi = {10.1190/geo2019-0056.1},
+    journal = {{Geophysics}},
+    number = {6},
+    pages = {A47--A52},
+    publisher = {SEG},
+    volume = {84}
+}
+```
+
+
 ## Questions
 
 Please contact alisk@gatech.edu for further questions.
